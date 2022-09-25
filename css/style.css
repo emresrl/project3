@@ -1,0 +1,275 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+/* sol kısım */
+.tsag {
+    width: 740px;
+    height: 700px;
+}
+
+.tsag1 {
+    position: absolute;
+}
+/* sol bitiş */
+/* sağ başlangıç */
+.t1 {
+    position: absolute;
+}
+
+.t2 {
+    width: 340px;
+    height: 280px;
+    margin-top: 230px;
+    margin-left: 200px;
+}
+
+.anah {
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 777px;
+}
+
+.head1 {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 777px;
+}
+
+.hic {
+    font-size:xx-large;
+    font-family: inherit;
+    font-weight: 900;
+    font-size: 77px;
+    color: aliceblue;
+}
+
+.prg {
+    position: absolute;
+    margin-top: 255px;
+    margin-left: 777px;
+}
+
+.prg1 {
+    font-size:small;
+    font-family: inherit;
+    font-weight: 400;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+.but1 {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 790px;
+    border-radius: 20px;
+    color: white;
+    width: 250px;
+    height: 40px;
+}
+
+span {
+    color: black;
+}
+
+.but2 {
+    position: absolute;
+    margin-top: 375px;
+    margin-left: 790px;
+    border-radius: 20px;
+    color: white;
+    width: 250px;
+    height: 40px;
+}
+
+.or {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 790px;
+    color: white;
+}
+
+.but3 {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 790px;
+    border-radius: 20px;
+    background-color: #00acee;
+    width: 250px;
+    height: 40px;
+}
+
+.but33 {
+    position: absolute;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    margin-right: 20px;
+}
+
+.met {
+    position: absolute;
+    margin-top: 500px;
+    margin-left: 790px;
+    border-radius: 20px;
+    color: white;
+    width: 250px;
+    height: 40px;
+    font-family: inherit;
+    font-size: 11px;
+}
+
+a {
+    color: #00acee;
+    font-size: 11px;
+}
+
+.altyaz {
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 790px;
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+}
+
+.but4 {
+    position: absolute;
+    margin-top: 640px;
+    margin-left: 790px;
+    border-radius: 20px;
+    border-style: 3px;
+    border-color: gray;
+    background-color: black;
+    width: 250px;
+    height: 40px;
+}
+
+.but44 {
+    color:#00acee;
+}
+
+/* sağ bitiş */
+/* alt başlangıç */
+.abou {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 25px;
+}
+
+.a {
+    color: gray;
+    font-size: 15px;
+}
+
+.help {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 75px;
+}
+
+.tos {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 160px;
+}
+
+.pp {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 275px;
+}
+
+.cp {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 375px;
+}
+
+.im {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 470px;
+}
+
+.ass {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 538px;
+}
+
+.ai {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 630px;
+}
+
+.bl {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 700px;
+}
+
+.st {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 750px;
+}
+
+.cr {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 800px;
+}
+
+.bt {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 870px;
+}
+
+.add {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 990px;
+}
+
+.mark {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1070px;
+}
+
+.tm {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1157px;
+}
+
+.d {
+    position: absolute;
+    margin-top: 700px;
+    margin-left: 1280px;
+}
+
+.dd {
+    position: absolute;
+    margin-top: 730px;
+    margin-left: 550px;
+}
+
+.s {
+    position: absolute;
+    margin-top: 730px;
+    margin-left: 630px;
+}
+
+.inc {
+    position: absolute;
+    margin-top: 730px;
+    margin-left: 700px;
+}
+/* alt bitiş */
